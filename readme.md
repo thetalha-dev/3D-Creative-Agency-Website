@@ -2,10 +2,6 @@
 
 An immersive 3D creative agency landing page built using **HTML**, **CSS**, and **JavaScript** — enhanced with smooth animations and interactive transitions.
 
-## 🌐 Live Demo
-
-[Live Site](#) *(Add your deployed link — GitHub Pages, Vercel, Netlify etc.)*
-
 ## ✨ Features
 
 - Modern agency landing page layout
